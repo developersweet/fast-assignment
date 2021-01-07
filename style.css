@@ -1,0 +1,175 @@
+
+.body{
+    font-family: arial;
+}
+
+.menubar{
+    margin-right:50px;
+    text-align: right;
+    padding:20px;
+}
+.menubar a{
+  
+    text-decoration: none;
+    padding:20px;
+    color: rgb(146, 45, 45);
+    text-transform: uppercase;
+    margin: 20px;
+    padding:20px;
+    background-color: rgb(241, 182, 19);
+}
+
+.menubar a:hover{
+    color: rgb(124, 116, 116);
+    background-color: green;
+}
+
+
+
+
+
+section{
+    padding-bottom:100px;
+    height: 500px;
+}
+
+
+
+.half-width{
+    width: 40%;
+    margin: 2%;
+    float: left;
+}
+
+.half-width img{
+    width: 100%;
+  
+}
+
+h1{
+  
+    font-size: 70px;
+    color:rgb(32, 22, 85);
+}
+
+h2{
+    font-size: 70px;
+    color: rgb(255, 153, 9);
+}
+
+.haire{
+    text-decoration: none;
+    text-transform: uppercase;
+   
+    padding:20px;
+    background-color: rgb(243, 164, 18);
+    color: rgb(31, 28, 28);
+    border-radius: 5px;
+
+}
+
+.haire:hover{
+    background-color: rgb(70, 219, 12);
+}
+
+p{
+    font-size: 15px;
+}
+
+h3{
+    font-size: 70px;
+    text-align: center;
+}
+
+
+
+.one-third{
+    width:30%;
+    float: left;
+    margin: 1%;
+    height: 500px;
+   
+}
+
+
+
+.one-third img{
+    width:100%;
+   
+}
+
+
+
+.shadow{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding:10px;
+}
+
+
+.box{
+    height: 200px;
+    width: 500px;
+    background-color:red;
+    
+
+  
+}
+
+h4{
+    font-size: 30px;
+}
+    
+
+p{
+    font-size: 20px;
+ 
+}
+
+
+#white{
+    color: rgb(139, 132, 132);
+}
+
+
+.shaps img{
+   width: 900px;
+    height: 250px;
+    margin: 100px 202px;
+    padding:60px;
+}
+
+.orang-highlite{
+    color: orange;
+}
+
+#uppercase{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.h4color{
+    color:rgb(92, 86, 86);
+}
+
+
+
+
+.five{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
